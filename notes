@@ -53,3 +53,10 @@ Ctrl + z 在前台暂停进程  可以使用fg + jobs获得的后台数字将后
 ctrl+z暂停，之后jobs再查看，之后再通过bg+数字放入后台继续运行
 添加环境变量的意义是在任何一个目录任何一个位置都可以执行添加到环境变量的程序，不需要提供路径或者刻意的去找
 如果没有添加环境变量就需要先切换到程序所在目录才能运行
+rm file 删除一个文件
+rmdir dir 删除一个目录
+在用户的家目录的 .bash_profile文件中添加环境变量 export PATH="$PATH:/c/Users/Accuenergy/bash_test"
+使用 ">"向文件中添加内容是覆盖是添加
+使用 ">>" 向文件中追加内容
+从文件中提取内容：grep "hello" test.txt 从test.txt文件中提取带hello的内容
+grep -i "hello" test.txt 忽略大小写
