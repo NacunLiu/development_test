@@ -1,0 +1,13 @@
+1. challenging & multi task & high pressure & improve
+   situation:
+   I'm incharge of two projects: the AcuCloud website testing is fully on me. all the internal& external release test
+   and testcase/ auto API& UI test script updates and issue investigation reported by technical support team.
+   I'm also incharge of the AcuLink810 a power meter gateway device test including all the internal & external release test and jira issue investigate
+   sometimes the two project has release at same time and meanwhile technical support team might ask me to investigate urgent issue reported by customer
+   task & action:
+   in this case I will give a more accurate time estimate for each project need to test then and talk directly to the TS team make sure the time deadline they want
+   first as they are from the same department. I will have a discuss with my team lead make sure the project priority and dead line for each project and make sure to finish
+   the project with high priority fist.
+   Then I will try更高效的利用时间，尽可能的在让同一个时间去交叉完成两个项目，就比如前不久我们刚刚发布了一个AcuCloud的internal release,但是当天的下午我们的810电表也发布了一个firmware release，这个时候经过我和team lead沟通
+   确定了810的优先级更高需要在当天测试完成，而因为810是一个
+
